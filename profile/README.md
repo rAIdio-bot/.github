@@ -1,0 +1,38 @@
+# rAIdio.bot
+
+**AI music creation studio — runs entirely on your PC, no subscriptions, no cloud.**
+
+Generate original songs from text, clone voices, separate stems, mix tracks, and add karaoke lyrics — all powered by your GPU, all offline.
+
+[**Get rAIdio.bot on Steam**](https://store.steampowered.com/app/4600000)
+
+---
+
+## Before you buy
+
+Not sure if your PC can run it? Download the free system checker — it takes about 10 seconds and tells you exactly what to expect.
+
+[**Download rAIdio System Check**](https://github.com/rAIdio-bot/raidio-check/releases/latest/download/raidio-check.exe) — free, no install required, Windows only
+
+---
+
+## What's here
+
+This page is the official home for rAIdio.bot resources. You don't need to know anything about GitHub to use what's here — just click the links below.
+
+| | |
+|---|---|
+| 📖 [**User Manual**](https://github.com/rAIdio-bot/manual#readme) | Quick reference for every feature in the app |
+| 🔍 [**System Check**](https://github.com/rAIdio-bot/raidio-check/releases/latest/download/raidio-check.exe) | Check if your PC meets requirements before buying |
+
+---
+
+## Need help?
+
+Press **F1** inside the app to open the built-in help for whatever tab you're on.
+
+For bugs and support, use the Steam community hub or contact us through the Steam support page.
+
+---
+
+*rAIdio.bot — Make music with your mind.*
