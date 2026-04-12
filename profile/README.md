@@ -35,4 +35,4 @@ For bugs and support, use the Steam community hub or contact us through the Stea
 
 ---
 
-*rAIdio.bot — Make music with your mind.*
+*rAIdio.bot — Make music with your words.*
