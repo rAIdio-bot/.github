@@ -1,8 +1,8 @@
 # rAIdio.bot
 
-**AI music creation studio — runs entirely on your PC, no subscriptions, no cloud.**
+**AI music creation studio that runs entirely on your PC, no subscriptions, no cloud.**
 
-Generate original songs from text, clone voices, separate stems, mix tracks, and add karaoke lyrics — all powered by your GPU, all offline.
+Generate original **Royalty Free** songs from text, clone voices, separate stems, mix tracks, and add karaoke lyrics — all powered by your GPU, all offline.
 
 [**Get rAIdio.bot on Steam**](https://store.steampowered.com/app/4600000)
 
