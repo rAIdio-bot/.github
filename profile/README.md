@@ -24,6 +24,10 @@ This page is the official home for rAIdio.bot resources. You don't need to know 
 |---|---|
 | 📖 [**User Manual**](https://github.com/rAIdio-bot/manual#readme) | Quick reference for every feature in the app |
 | 🔍 [**System Check**](https://github.com/rAIdio-bot/raidio-check/releases/latest/download/raidio-check.exe) | Check if your PC meets requirements before buying |
+| 📜 [**EULA**](https://github.com/rAIdio-bot/manual/blob/main/EULA.md) | End-User License Agreement |
+| 🔒 [**Privacy Policy**](https://github.com/rAIdio-bot/manual/blob/main/PRIVACY.md) | What we collect (nothing) and why |
+| 📋 [**Content Policy**](https://github.com/rAIdio-bot/manual/blob/main/CONTENT_POLICY.md) | Responsible use guidelines |
+| ⚖️ [**Third-Party Notices**](https://github.com/rAIdio-bot/manual/blob/main/THIRD_PARTY_NOTICES.md) | Open-source components and licenses |
 
 ---
 
