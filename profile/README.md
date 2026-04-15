@@ -36,9 +36,9 @@ This page is the official home for rAIdio.bot resources. You don't need to know 
 
 Press **F1** inside the app to open the built-in help for whatever tab you're on.
 
+- [**Report a Bug**](https://github.com/rAIdio-bot/manual/issues) — file an issue on GitHub
 - [**Join the Discord**](https://discord.gg/wur3EgD6EA) — community support and feedback
 - **Email**: info@rAIdio.bot
-- **Steam**: use the community hub or support page
 
 ---
 
