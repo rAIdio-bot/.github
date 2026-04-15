@@ -36,7 +36,9 @@ This page is the official home for rAIdio.bot resources. You don't need to know 
 
 Press **F1** inside the app to open the built-in help for whatever tab you're on.
 
-For bugs and support, use the Steam community hub or contact us through the Steam support page.
+- [**Join the Discord**](https://discord.gg/wur3EgD6EA) — community support and feedback
+- **Email**: info@rAIdio.bot
+- **Steam**: use the community hub or support page
 
 ---
 
