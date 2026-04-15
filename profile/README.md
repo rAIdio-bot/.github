@@ -24,7 +24,7 @@ This page is the official home for rAIdio.bot resources. You don't need to know 
 |---|---|
 | 📖 [**User Manual**](https://github.com/rAIdio-bot/manual#readme) | Quick reference for every feature in the app |
 | 🎵 [**Listen to Examples**](https://raidio-bot.github.io/manual/examples.html) | AI-generated music with prompts shown |
-| 🔍 [**System Check**](https://github.com/rAIdio-bot/raidio-check/tree/v1.0.1) | Check if your PC meets requirements before buying |
+| 🔍 [**System Check**](https://github.com/rAIdio-bot/raidio-check/releases/latest/download/raidio-check.exe) | Check if your PC meets requirements before buying |
 | 📜 [**EULA**](https://github.com/rAIdio-bot/manual/blob/main/EULA.md) | End-User License Agreement |
 | 🔒 [**Privacy Policy**](https://github.com/rAIdio-bot/manual/blob/main/PRIVACY.md) | What we collect (nothing) and why |
 | 📋 [**Content Policy**](https://github.com/rAIdio-bot/manual/blob/main/CONTENT_POLICY.md) | Responsible use guidelines |
