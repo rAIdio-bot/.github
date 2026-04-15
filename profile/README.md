@@ -28,6 +28,7 @@ This page is the official home for rAIdio.bot resources. You don't need to know 
 | 🔒 [**Privacy Policy**](https://github.com/rAIdio-bot/manual/blob/main/PRIVACY.md) | What we collect (nothing) and why |
 | 📋 [**Content Policy**](https://github.com/rAIdio-bot/manual/blob/main/CONTENT_POLICY.md) | Responsible use guidelines |
 | ⚖️ [**Third-Party Notices**](https://github.com/rAIdio-bot/manual/blob/main/THIRD_PARTY_NOTICES.md) | Open-source components and licenses |
+| 🇪🇺 [**EU AI Act Statement**](https://github.com/rAIdio-bot/manual/blob/main/EU_AI_ACT.md) | AI transparency, training data, compliance |
 
 ---
 
