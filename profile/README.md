@@ -30,6 +30,7 @@ This page is the official home for rAIdio.bot resources. You don't need to know 
 | 📋 [**Content Policy**](https://github.com/rAIdio-bot/manual/blob/main/CONTENT_POLICY.md) | Responsible use guidelines |
 | ⚖️ [**Third-Party Notices**](https://github.com/rAIdio-bot/manual/blob/main/THIRD_PARTY_NOTICES.md) | Open-source components and licenses |
 | 🇪🇺 [**EU AI Act Statement**](https://github.com/rAIdio-bot/manual/blob/main/EU_AI_ACT.md) | AI transparency, training data, compliance |
+| 📦 [**SBOM (CycloneDX)**](https://github.com/rAIdio-bot/manual/tree/main/sbom) | Machine-readable software bill of materials for OSPO ingestion |
 
 ---
 
