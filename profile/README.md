@@ -4,6 +4,8 @@
 
 Generate original songs from text, easy text to speech, clone voices, separate stems, mix tracks, and add karaoke lyrics, all powered by your GPU, all offline.
 
+_System requirements: Windows 10/11 x64 · NVIDIA GPU with 16 GB VRAM minimum (24 GB+ for XL model) · 32 GB RAM recommended · 80 GB free disk._
+
 [**Get rAIdio.bot on Steam**](https://store.steampowered.com/app/4600000)
 
 ---
